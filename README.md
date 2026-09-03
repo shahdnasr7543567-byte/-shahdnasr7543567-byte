@@ -17,10 +17,10 @@
 
 ### Connect with me:
 <p left>
-<a href="https://github.com/shahdnasr7543567-byte" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/shahd-ghanem" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin.svg" width="32" height="32" /></a>
-<a href="https://discord.gg/qHHzsjKAk" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord.svg" width="32" height="32" /></a>
-<a href="https://codeforces.com/profile/ShahdGhanem7" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codeforces.svg" width="32" height="32" /></a>
+<a href="https://github.com/shahdnasr7543567-byte" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/shahd-ghanem" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a>
+<a href="https://discord.gg/qHHzsjKAk" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" height="40"/></a>
+<a href="https://codeforces.com/profile/ShahdGhanem7" target="_blank"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="40" height="40"/></a>
 </p>
 
 ---
