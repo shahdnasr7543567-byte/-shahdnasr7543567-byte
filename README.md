@@ -1,66 +1,83 @@
-<h1 align="center">Hi 👋, I'm Shahd Ghanem</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+%26+AI+Student+%40+Sphinx+University;Turning+Raw+Data+Into+Real+Decisions;Learning+Frontend+%7C+Diving+Into+Data+Science;Passionate+about+Cybersecurity" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXl6NTM3N2Qyc2JhcTh2ODN6Mm1tamgxZ2czdjdibmY0eWhmcXQ0MiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXl6NTM3N2Qyc2JhcTh2ODN6Mm1tamgxZ2czdjdibmY0eWhmcXQ0MiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="400"/>
+  <a href="https://www.linkedin.com/in/shahd-ghanem"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shahdnasr7543567@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/shahdnasr7543567-byte"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahdnasr7543567-byte&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+</p>
+
+<h3 align="center">Hey there, I'm Shahd 👋</h3>
+
+---
+
+### 👤 About Me
+
+- 🎓 BSc Student in Computer Science & Artificial Intelligence at Sphinx University, 3rd year.
+- 📊 Currently pursuing a Data Science Diploma — Python, Statistics, Machine Learning, Deep Learning & MLOps.
+- 💻 Also building my foundations in Frontend Development.
+- 🔍 Focus: Data Analysis, Machine Learning, and turning raw data into real decisions.
+- 🔐 Growing interest in Cybersecurity.
+- 🌱 Always learning, always building.
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center"><b>Data Science & ML</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
+
+<p align="center"><b>Web Development</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center"><b>Languages & Tools</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
-### 💡 من أنا
+### 🚀 Featured Projects
 
-أنا **شهد غانم**، طالبة **علوم حاسب وذكاء اصطناعي** بجامعة **سفنكس**، الفرقة **التالتة**.
+> _Add your projects here as you build them — one line per project works best:_
 
-بؤمن إن أي رقم في أي جدول بيانات وراه قصة حقيقية، وشغفي إني أكون الشخص اللي يقدر يقراها ويحولها لقرار مفيد.
-حاليًا بطوّر مهاراتي في **Frontend Development**، وبدأت خطوة جديدة أهم في مسيرتي وهي دبلومة **Data Science** المتكاملة، عشان أبني نفسي كـ **Data Scientist** حقيقية مش بس شخص عنده اهتمام بالمجال.
-
-- 🎯 هدفي: أبقى Data Scientist قادرة إنها تحول البيانات الخام لقرارات فعلية
-- 🌱 حاليًا بتعلم: **Data Science Diploma** (Python – Statistics – ML – Deep Learning – MLOps)
-- 💻 بشتغل كمان على: أساسيات Frontend Development
-- 🔐 مهتمة بـ: Cybersecurity
-- 💬 اسألوني عن: Python, HTML, CSS, JavaScript, أساسيات تحليل البيانات
+- 🔹 **Project Name** — one-line description *(link)*
+- 🔹 **Project Name** — one-line description *(link)*
 
 ---
 
-### 🚀 رحلتي في Data Science
+### 🔥 GitHub Stats & Trophies
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahdnasr7543567-byte&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
-**Phase 1 — Foundations**
-- [ ] Python Programming
-- [ ] Math & Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahdnasr7543567-byte&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdnasr7543567-byte&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
 
-**Phase 2 — Data Analysis**
-- [ ] Data Analysis with Python
-- [ ] Excel & Power BI
-
-**Phase 3 — Data Engineering & ML**
-- [ ] Databases & Data Engineering
-- [ ] Machine Learning
-
-</td>
-<td valign="top" width="50%">
-
-**Phase 4 — Deep Learning & AI**
-- [ ] Deep Learning
-
-**Phase 5 — Production & Capstone**
-- [ ] Deployment & MLOps
-- [ ] Capstone Project
-
-</td>
-</tr>
-</table>
-
-> كل ما أخلص مرحلة، بحدّث القايمة دي ✅ — تابعوني عشان تشوفوا التقدم أول بأول.
-
----
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahdnasr7543567-byte&theme=redical&hide_border=true" width="100%"/>
+</p>
 ### 🛠️ اللغات والأدوات
 
 <p align="left">
