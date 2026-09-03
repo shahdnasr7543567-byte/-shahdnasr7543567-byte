@@ -9,6 +9,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <code>shahdnasr_25_71042</code>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahdnasr7543567-byte&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
@@ -22,7 +27,6 @@
 - 📊 Currently pursuing a Data Science Diploma — Python, Statistics, Machine Learning, Deep Learning & MLOps.
 - 💻 Also building my foundations in Frontend Development.
 - 🔍 Focus: Data Analysis, Machine Learning, and turning raw data into real decisions.
-- 🔐 Growing interest in Cybersecurity.
 - 🌱 Always learning, always building.
 
 ---
@@ -31,41 +35,24 @@
 
 <p align="center"><b>Data Science & ML</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 <p align="center"><b>Web Development</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 <p align="center"><b>Languages & Tools</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
-
----
-
-### 🔥 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahdnasr7543567-byte&theme=radical&no-frame=true&row=1&column=6" width="600"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahdnasr7543567-byte&show_icons=true&theme=radical&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdnasr7543567-byte&layout=compact&theme=radical&hide_border=true" width="35%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahdnasr7543567-byte&theme=redical&hide_border=true" width="700"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
