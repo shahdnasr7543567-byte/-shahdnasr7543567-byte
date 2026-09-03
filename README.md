@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXl6NTM3N2Qyc2JhcTh2ODN6Mm1tamgxZ2czdjdibmY0eWhmcXQ0MiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXl6NTM3N2Qyc2JhcTh2ODN6Mm1tamgxZ2czdjdibmY0eWhmcXQ0MiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
@@ -58,14 +58,14 @@
 ### 🔥 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahdnasr7543567-byte&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shahdnasr7543567-byte&theme=radical&no-frame=true&row=1&column=6" width="600"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahdnasr7543567-byte&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdnasr7543567-byte&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahdnasr7543567-byte&show_icons=true&theme=radical&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdnasr7543567-byte&layout=compact&theme=radical&hide_border=true" width="35%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahdnasr7543567-byte&theme=redical&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahdnasr7543567-byte&theme=redical&hide_border=true" width="700"/>
 </p>
