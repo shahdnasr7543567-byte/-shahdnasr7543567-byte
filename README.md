@@ -55,15 +55,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-> _Add your projects here as you build them — one line per project works best:_
-
-- 🔹 **Project Name** — one-line description *(link)*
-- 🔹 **Project Name** — one-line description *(link)*
-
----
-
 ### 🔥 GitHub Stats & Trophies
 
 <p align="center">
@@ -77,27 +68,4 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahdnasr7543567-byte&theme=redical&hide_border=true" width="100%"/>
-</p>
-### 🛠️ اللغات والأدوات
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahdnasr7543567-byte&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <em>"البيانات بتتكلم... وأنا بتعلم أسمعها."</em>
 </p>
