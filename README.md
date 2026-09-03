@@ -9,15 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  <code>shahdnasr_25_71042</code>
+  <a href="https://discord.gg/qHHzsjKAk"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahdnasr7543567-byte&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
-<h3 align="center">Hey there, I'm Shahd 👋</h3>
+<h4 align="center">Hey there, I'm Shahd Ghanem 👋</h4>
 
 ---
 
