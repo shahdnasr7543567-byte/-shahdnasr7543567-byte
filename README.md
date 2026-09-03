@@ -1,52 +1,86 @@
-<div align="center" width="50">
+<h1 align="center">Hi 👋, I'm Shahd Ghanem</h1>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+%26+AI+Student+%40+Sphinx+University;Turning+Raw+Data+Into+Real+Decisions;Learning+Frontend+%7C+Diving+Into+Data+Science;Passionate+about+Cybersecurity" alt="Typing SVG" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-
-</div>
-
-<hr/>
-
-## 👋 Hi, I'm **Shahd Ghanem**
-
-🎓 **Computer Science & Artificial Intelligence Student**  
-🔐 **Cybersecurity Beginner | Passionate Learner**
-
-I am a motivated student studying **Computer Science and Artificial Intelligence**, currently building a strong foundation in programming, computer systems, and security concepts.  
-I have a growing interest in **Cybersecurity** and enjoy understanding how systems work, how vulnerabilities appear, and how to secure them properly.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXl6NTM3N2Qyc2JhcTh2ODN6Mm1tamgxZ2czdjdibmY0eWhmcXQ0MiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="400"/>
+</p>
 
 ---
 
-## 🚀 Current Learning Focus
+### 💡 من أنا
 
-- Cybersecurity fundamentals  
-- Networking basics  
-- Operating Systems concepts  
-- Linux & Command Line  
-- Problem Solving & Logical Thinking  
+أنا **شهد غانم**، طالبة **علوم حاسب وذكاء اصطناعي** بجامعة **سفنكس**، الفرقة **التالتة**.
 
----
+بؤمن إن أي رقم في أي جدول بيانات وراه قصة حقيقية، وشغفي إني أكون الشخص اللي يقدر يقراها ويحولها لقرار مفيد.
+حاليًا بطوّر مهاراتي في **Frontend Development**، وبدأت خطوة جديدة أهم في مسيرتي وهي دبلومة **Data Science** المتكاملة، عشان أبني نفسي كـ **Data Scientist** حقيقية مش بس شخص عنده اهتمام بالمجال.
 
-## 🛠️ Tools & Technologies
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+- 🎯 هدفي: أبقى Data Scientist قادرة إنها تحول البيانات الخام لقرارات فعلية
+- 🌱 حاليًا بتعلم: **Data Science Diploma** (Python – Statistics – ML – Deep Learning – MLOps)
+- 💻 بشتغل كمان على: أساسيات Frontend Development
+- 🔐 مهتمة بـ: Cybersecurity
+- 💬 اسألوني عن: Python, HTML, CSS, JavaScript, أساسيات تحليل البيانات
 
 ---
 
-```python
-# Technical Stack
+### 🚀 رحلتي في Data Science
 
-skills = {
-    "Programming Languages": ["Python", "C++", "C", "Java"],
-    "CS Fundamentals": ["Data Structures", "Algorithms", "OOP"],
-    "Cybersecurity Basics": ["Networking", "Linux", "Security Fundamentals"],
-    "Tools": ["Git", "VS Code", "Linux Terminal"]
-}
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**Phase 1 — Foundations**
+- [ ] Python Programming
+- [ ] Math & Statistics
+
+**Phase 2 — Data Analysis**
+- [ ] Data Analysis with Python
+- [ ] Excel & Power BI
+
+**Phase 3 — Data Engineering & ML**
+- [ ] Databases & Data Engineering
+- [ ] Machine Learning
+
+</td>
+<td valign="top" width="50%">
+
+**Phase 4 — Deep Learning & AI**
+- [ ] Deep Learning
+
+**Phase 5 — Production & Capstone**
+- [ ] Deployment & MLOps
+- [ ] Capstone Project
+
+</td>
+</tr>
+</table>
+
+> كل ما أخلص مرحلة، بحدّث القايمة دي ✅ — تابعوني عشان تشوفوا التقدم أول بأول.
+
+---
+
+### 🛠️ اللغات والأدوات
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahdnasr7543567-byte&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <em>"البيانات بتتكلم... وأنا بتعلم أسمعها."</em>
+</p>
